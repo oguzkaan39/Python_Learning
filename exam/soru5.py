@@ -1,6 +1,6 @@
 #!usr/env/bin python
 #-*- coding:utf-8 -*-
-#---------------------------SORU---------------------------------------------------
+#-----------------------------------SORU-------------------------------------------
 #Bilgisayarın rastgele tuttuğu bir sayıyı tahmin etme oyunu yazınız.
 #KURAL = Kullanıcı 4 defa yanlış girdiğinde BAŞARISIZ sayılacaktır.
 #KURAL2 = Örneğin bilgisayarın tuttuğu sayı 5 olsun
